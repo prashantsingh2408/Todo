@@ -1,1 +1,1 @@
-![screenshot](Todo/public/asset/img/todoPic.png)
+![screenshot](public/asset/img/todoPic.png)
